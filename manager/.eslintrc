@@ -1,0 +1,7 @@
+{
+  "extends": "rallycoding",
+  "esversion": 6,
+  "rules": {
+    "arrow-body-style": 0  
+  }
+}
